@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\bin\Debug\net8.0\01-OddLines.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\bin\Debug\net8.0\01-OddLines.deps.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\bin\Debug\net8.0\01-OddLines.runtimeconfig.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\bin\Debug\net8.0\01-OddLines.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\bin\Debug\net8.0\01-OddLines.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\01-OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\01-OddLines.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\01-OddLines.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\01-OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\01-OddLines.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\refint\01-OddLines.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\01-OddLines.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\01-OddLines.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\01-OddLines\obj\Debug\net8.0\ref\01-OddLines.dll
