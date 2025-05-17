@@ -1,0 +1,15 @@
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\bin\Debug\net8.0\03-WordCount.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.sourcelink.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\refint\03-WordCount.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\bin\Debug\net8.0\03-WordCount.deps.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\bin\Debug\net8.0\03-WordCount.runtimeconfig.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\bin\Debug\net8.0\03-WordCount.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\bin\Debug\net8.0\03-WordCount.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\03-WordCount.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\03-WordCount\obj\Debug\net8.0\ref\03-WordCount.dll
