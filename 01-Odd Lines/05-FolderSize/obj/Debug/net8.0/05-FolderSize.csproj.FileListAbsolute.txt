@@ -1,0 +1,15 @@
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\bin\Debug\net8.0\05-FolderSize.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\bin\Debug\net8.0\05-FolderSize.deps.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\bin\Debug\net8.0\05-FolderSize.runtimeconfig.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\bin\Debug\net8.0\05-FolderSize.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\bin\Debug\net8.0\05-FolderSize.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.sourcelink.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\refint\05-FolderSize.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\05-FolderSize.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\05-FolderSize\obj\Debug\net8.0\ref\05-FolderSize.dll
