@@ -1,0 +1,15 @@
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\bin\Debug\net8.0\DaysInOneYear.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\bin\Debug\net8.0\DaysInOneYear.deps.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\bin\Debug\net8.0\DaysInOneYear.runtimeconfig.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\bin\Debug\net8.0\DaysInOneYear.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\bin\Debug\net8.0\DaysInOneYear.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.sourcelink.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\refint\DaysInOneYear.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\DaysInOneYear.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\DaysInOneYear\obj\Debug\net8.0\ref\DaysInOneYear.dll
