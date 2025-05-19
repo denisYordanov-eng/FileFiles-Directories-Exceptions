@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\MostFrequentNum\bin\Debug\MostFrequentNum.exe.config
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\MostFrequentNum\bin\Debug\MostFrequentNum.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\MostFrequentNum\bin\Debug\MostFrequentNum.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\MostFrequentNum\obj\Debug\MostFrequentNum.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\MostFrequentNum\obj\Debug\MostFrequentNum.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\MostFrequentNum\obj\Debug\MostFrequentNum.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\MostFrequentNum\obj\Debug\MostFrequentNum.pdb
