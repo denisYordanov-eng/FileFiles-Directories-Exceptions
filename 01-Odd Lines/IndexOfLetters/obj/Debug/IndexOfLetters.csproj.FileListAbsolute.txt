@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\IndexOfLetters\obj\Debug\IndexOfLetters.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\IndexOfLetters\obj\Debug\IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\IndexOfLetters\obj\Debug\IndexOfLetters.pdb
