@@ -1,0 +1,15 @@
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\bin\Debug\net8.0\GetAllDirectoryFromC.exe
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\bin\Debug\net8.0\GetAllDirectoryFromC.deps.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\bin\Debug\net8.0\GetAllDirectoryFromC.runtimeconfig.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\bin\Debug\net8.0\GetAllDirectoryFromC.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\bin\Debug\net8.0\GetAllDirectoryFromC.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.sourcelink.json
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\refint\GetAllDirectoryFromC.dll
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.pdb
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\GetAllDirectoryFromC.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\C#\Files-DirectoriesAndExceptions\FileFiles-Directories-Exceptions\01-Odd Lines\GetAllDirectoryFromC\obj\Debug\net8.0\ref\GetAllDirectoryFromC.dll
