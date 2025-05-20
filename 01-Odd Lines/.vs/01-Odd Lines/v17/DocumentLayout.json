@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Desktop\\C#\\Files-DirectoriesAndExceptions\\FileFiles-Directories-Exceptions\\01-Odd Lines\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F942046-E1AA-4A91-B6C3-253318AA0160}|01-OddLines\\01-OddLines.csproj|c:\\users\\laptop\\desktop\\c#\\files-directoriesandexceptions\\filefiles-directories-exceptions\\01-odd lines\\01-oddlines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F942046-E1AA-4A91-B6C3-253318AA0160}|01-OddLines\\01-OddLines.csproj|solutionrelative:01-oddlines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{840C5BB2-D34F-4B08-83BD-C9210314EC61}|AMinerTask\\AMinerTask.csproj|c:\\users\\laptop\\desktop\\c#\\files-directoriesandexceptions\\filefiles-directories-exceptions\\01-odd lines\\aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840C5BB2-D34F-4B08-83BD-C9210314EC61}|AMinerTask\\AMinerTask.csproj|solutionrelative:aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\C#\\Files-DirectoriesAndExceptions\\FileFiles-Directories-Exceptions\\01-Odd Lines\\01-OddLines\\Program.cs",
-              "RelativeDocumentMoniker": "01-OddLines\\Program.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\C#\\Files-DirectoriesAndExceptions\\FileFiles-Directories-Exceptions\\01-Odd Lines\\01-OddLines\\Program.cs",
-              "RelativeToolTip": "01-OddLines\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\C#\\Files-DirectoriesAndExceptions\\FileFiles-Directories-Exceptions\\01-Odd Lines\\AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "AMinerTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\C#\\Files-DirectoriesAndExceptions\\FileFiles-Directories-Exceptions\\01-Odd Lines\\AMinerTask\\Program.cs",
+              "RelativeToolTip": "AMinerTask\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T03:55:36.036Z",
+              "WhenOpened": "2025-05-19T14:22:52.924Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-WordCount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f15d00acbf194696cf517484345802fd582e9d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d429495f4d64d1f99d5d6b352cbd015a9a29223d")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-WordCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-WordCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

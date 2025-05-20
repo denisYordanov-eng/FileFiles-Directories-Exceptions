@@ -12,7 +12,9 @@ namespace MostFrequentNum
         static void Main(string[] args)
         {
             File.WriteAllText("input.txt", "4 1 1 4 2 3 4 4 1 2 4 9 3");
+
             var input = File.ReadAllText("input.txt");
+
             int[] numbers = input.Split(' ').Select(int.Parse).ToArray();
                   
 

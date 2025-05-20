@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05-FolderSize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c0ec37d2bcaf05d881cbac7eab7bcd72d014925")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d429495f4d64d1f99d5d6b352cbd015a9a29223d")]
 [assembly: System.Reflection.AssemblyProductAttribute("05-FolderSize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05-FolderSize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
